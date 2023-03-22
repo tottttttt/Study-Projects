@@ -1,0 +1,10 @@
+﻿  B-Tree.cpp
+C:\Users\User\Desktop\admin\Университет\АиСД\B-Tree\B-Tree\B-Tree.cpp(81,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\admin\Университет\АиСД\B-Tree\B-Tree\B-Tree.cpp(85,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\admin\Университет\АиСД\B-Tree\B-Tree\B-Tree.cpp(184,27): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\admin\Университет\АиСД\B-Tree\B-Tree\B-Tree.cpp(191,33): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\admin\Университет\АиСД\B-Tree\B-Tree\B-Tree.cpp(255,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\admin\Университет\АиСД\B-Tree\B-Tree\B-Tree.cpp(257,77): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\admin\Университет\АиСД\B-Tree\B-Tree\B-Tree.cpp(267,69): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\admin\Университет\АиСД\B-Tree\B-Tree\B-Tree.cpp(275,58): warning C4018: >=: несоответствие типов со знаком и без знака
+  B-Tree.vcxproj -> C:\Users\User\Desktop\admin\Университет\АиСД\B-Tree\B-Tree\Debug\B-Tree.exe

@@ -1,0 +1,26 @@
+﻿  Queue.cpp
+C:\Users\User\Desktop\admin\Университет\АиСД\Queue\Queue\Queue.cpp(9,26): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\admin\Университет\АиСД\Queue\Queue\Queue.cpp(9,47): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\admin\Университет\АиСД\Queue\Queue\Queue.cpp(48,19): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\utility(190,16): warning C4244: инициализация: преобразование "_Ty" в "_Ty1", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+C:\Users\User\Desktop\admin\Университет\АиСД\Queue\Queue\Queue.cpp(85): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<int,int>::pair<double,int,0>(_Other1 &&,_Other2 &&) noexcept"
+          with
+          [
+              _Other1=double,
+              _Other2=int
+          ]
+C:\Users\User\Desktop\admin\Университет\АиСД\Queue\Queue\Queue.cpp(85): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<int,int>::pair<double,int,0>(_Other1 &&,_Other2 &&) noexcept"
+          with
+          [
+              _Other1=double,
+              _Other2=int
+          ]
+  Queue.vcxproj -> C:\Users\User\Desktop\admin\Университет\АиСД\Queue\Queue\Debug\Queue.exe

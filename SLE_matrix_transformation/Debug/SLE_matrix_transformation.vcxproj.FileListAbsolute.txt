@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\admin\Университет\Вычислительная математика\SLE_matrix_transformation\Debug\SLE_matrix_transformation.exe
+C:\Users\User\Desktop\admin\Университет\Вычислительная математика\SLE_matrix_transformation\Debug\SLE_matrix_transformation.pdb

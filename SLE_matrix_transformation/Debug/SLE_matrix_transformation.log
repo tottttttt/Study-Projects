@@ -1,0 +1,9 @@
+﻿  SLE_matrix_transformation.cpp
+C:\Users\User\Desktop\admin\Университет\Вычислительная математика\SLE_matrix_transformation\SLE_matrix_transformation.cpp(197,8): warning C4101: swap_index: неиспользованная локальная переменная
+C:\Users\User\Desktop\admin\Университет\Вычислительная математика\SLE_matrix_transformation\SLE_matrix_transformation.cpp(752,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\admin\Университет\Вычислительная математика\SLE_matrix_transformation\SLE_matrix_transformation.cpp(795,9): warning C4101: tmp_elem: неиспользованная локальная переменная
+C:\Users\User\Desktop\admin\Университет\Вычислительная математика\SLE_matrix_transformation\SLE_matrix_transformation.cpp(1212,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\admin\Университет\Вычислительная математика\SLE_matrix_transformation\SLE_matrix_transformation.cpp(99): warning C4715: Matrix::operator*: значение возвращается не при всех путях выполнения
+C:\Users\User\Desktop\admin\Университет\Вычислительная математика\SLE_matrix_transformation\SLE_matrix_transformation.cpp(115): warning C4715: Matrix::operator-: значение возвращается не при всех путях выполнения
+C:\Users\User\Desktop\admin\Университет\Вычислительная математика\SLE_matrix_transformation\SLE_matrix_transformation.cpp(131): warning C4715: Matrix::operator+: значение возвращается не при всех путях выполнения
+  SLE_matrix_transformation.vcxproj -> C:\Users\User\Desktop\admin\Университет\Вычислительная математика\SLE_matrix_transformation\Debug\SLE_matrix_transformation.exe

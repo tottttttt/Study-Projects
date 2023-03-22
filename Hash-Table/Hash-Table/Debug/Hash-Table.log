@@ -1,0 +1,4 @@
+﻿  Hash-Table.cpp
+C:\Users\User\Desktop\admin\Университет\АиСД\Hash-Table\Hash-Table\Hash-Table.cpp(87,24): warning C4244: =: преобразование "int64_t" в "int", возможна потеря данных
+C:\Users\User\Desktop\admin\Университет\АиСД\Hash-Table\Hash-Table\Hash-Table.cpp(93,21): warning C4244: return: преобразование "int64_t" в "int", возможна потеря данных
+  Hash-Table.vcxproj -> C:\Users\User\Desktop\admin\Университет\АиСД\Hash-Table\Hash-Table\Debug\Hash-Table.exe

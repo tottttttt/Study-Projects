@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\admin\Университет\АиСД\FloydWarshall\Debug\FloydWarshall.exe
+C:\Users\User\Desktop\admin\Университет\АиСД\FloydWarshall\Debug\FloydWarshall.pdb
